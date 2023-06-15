@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jaidevpradhan
 - 👀 I’m interested in  coding 
 - 🌱 I’m currently learning Android development 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on moblile app project
 - 📫 How to reach me ...
-- @ig_haruop24 
+  jaievpradhan67@gmail.com
 
 <!---
 jaidevpradhan/jaidevpradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
